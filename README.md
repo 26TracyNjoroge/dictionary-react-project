@@ -1,15 +1,14 @@
-# My React Weather App Project
+# My React Dictionary App Project
 
-A React weather application that displays current weather and a 6-day forecast for any city using the SheCodes Weather API.
+A React dictionary application that displays the meaning of words and the images associated with the word using the SheCodes Weather API.
 
-### React Weather App Screenshot
+### React Dictionary App Screenshot
 
-![Weather App Screenshot]()
+![Dictionary App Screenshot]()
 
 ### Features
 
-* Dynamic weather updates using SheCodes Weather API.
-* Displays city name, weather icon, temperature, and daily forecast.
+* Displays word definitions and associted images.
 * Hosted on Vercel.
 
 ### Technologies
@@ -22,5 +21,5 @@ A React weather application that displays current weather and a 6-day forecast f
 
 ### Project Links
 
-- Github Repository: [Repository]()
-- Live Site URL: [Live Demo]()
+- Github Repository: [Repository](https://github.com/26TracyNjoroge/dictionary-react-project)
+- Live Site URL: [Live Demo](https://dictionary-react-project.vercel.app/)

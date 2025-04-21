@@ -14,7 +14,20 @@
 }
 
 .Dictionary .Dictionary-search {
+  border: 1px solid black;
   border-radius: 50%;
-  margin-left: 12px;
-  font-size: 0.9rem;
+  margin-left: 4px;
+  padding: 6px;
+  margin-bottom: -8px;
+  transition: 150ms;
+}
+
+.Dictionary .Dictionary-search:hover {
+  background-color: rgb(106, 106, 172);
+}
+
+
+.Dictionary .search-button {
+  border: none;
+  background-color: white;
 }

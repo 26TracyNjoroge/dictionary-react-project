@@ -1,0 +1,18 @@
+.Meaning h4 {
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.Meaning section {
+    background-color: #F2F2F2;
+    padding: 16px;
+    border-radius: 6px;
+    line-height: 1;
+    margin: 22px 0 26px 0;
+}
+
+.Meaning .example {
+    opacity: 0.8;
+    line-height: 1;
+}

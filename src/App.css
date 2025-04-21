@@ -1,3 +1,7 @@
+body {
+  background: #C2CBCC;
+}
+
 .App .Dictionary {
   padding: 12px;
   margin-top: 16px;
@@ -10,7 +14,10 @@
 
 .Dictionary .Dictionary-word {
   border-radius: 18px;
-  padding-left: 12px;
+  /* padding-left: 12px; */
+  border: 1px solid black;
+  padding: 6px 6px 6px 12px;
+
 }
 
 .Dictionary .Dictionary-search {
@@ -29,5 +36,5 @@
 
 .Dictionary .search-button {
   border: none;
-  background-color: white;
+  background-color: #C2CBCC;
 }

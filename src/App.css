@@ -7,3 +7,14 @@
   text-align: center;
   font-size: 0.8rem;
 }
+
+.Dictionary .Dictionary-word {
+  border-radius: 18px;
+  padding-left: 8px;
+}
+
+.Dictionary .Dictionary-search {
+  border-radius: 50%;
+  margin-left: 12px;
+  font-size: 0.9rem;
+}

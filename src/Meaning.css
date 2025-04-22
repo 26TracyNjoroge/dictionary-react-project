@@ -5,11 +5,10 @@
 }
 
 .Meaning section {
-    background-color: #F2F2F2;
-    padding: 16px;
-    border-radius: 6px;
-    line-height: 1;
-    margin: 22px 0 26px 0;
+    font-weight: 600;
+    font-size: 0.79rem;
+    padding: 6px;
+    margin-bottom: 8px;
 }
 
 .Meaning .example {
